@@ -1,0 +1,33 @@
+div.container_custom{
+    margin: auto 2%;
+}
+div.nav_custom ul {
+    list-style-type: none;
+    display: inline;
+    margin: 0;
+    padding: 0;
+}
+
+div.nav_custom ul li {
+    list-style-type: none;
+    display: inline;
+    margin-right: 0.5%;
+}
+
+div.gird_custom {
+    display: grid;
+    grid-template-columns: 7% 15% 5% 10%;
+}
+
+div.gird_custom .gird_item{
+    margin-bottom: 5%;
+}
+
+div.nav_custom_left {
+    margin-right: 5%;
+    float: left;
+}
+div.nav_custom_right {
+    margin-right: 5%;
+    float: left;
+}
